@@ -22,7 +22,7 @@
 
 ## About Application
 
-Nlw-copa is a project to create polls of cup teams and share them among your friends. The project was created at the Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
+NLW-copa is a project to create polls of cup teams and share them among your friends. The project was created at the Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
 
 ## Technologies
   - [NextJS](https://nextjs.org/)
@@ -82,7 +82,7 @@ See the project prototype in [figma](https://www.figma.com/file/MbLPiWxdF21YtWQA
 
 ## Project Status
 
-> Status: Developing
+> Status: Completed.
 
 <hr></hr>
 
